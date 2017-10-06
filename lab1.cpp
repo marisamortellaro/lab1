@@ -6,7 +6,9 @@ main()
 {
     
 }
-void square(int a)
+void power(int base, int exp)
 {
-   cout << (a * a);
+    int result;
+    int result = Math.pow(base,exp);
+    cout << result << endl;
 }
