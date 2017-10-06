@@ -6,7 +6,7 @@ main()
 {
     
 }
-voide square(int a)
+void square(int a)
 {
    cout << (a * a);
 }
